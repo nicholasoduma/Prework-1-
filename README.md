@@ -7,8 +7,7 @@ Prework for Codepath
 
 ### App Walk-though
 
-
-<img src="" width=200><br>
+<img src="http://g.recordit.co/Te4ox1TTrA.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
