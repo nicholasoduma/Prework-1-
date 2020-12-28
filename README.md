@@ -8,12 +8,7 @@ Prework for Codepath
 ### App Walk-though
 
 
-<img src="https://im3.ezgif.com/tmp/ezgif-3-49e1efbad1c7.gif" width=200><br>
-
-<img src="https://im3.ezgif.com/tmp/ezgif-3-3d9b7bea981d.gif" width=200><br>
-
-<img src="https://im3.ezgif.com/tmp/ezgif-3-3c97c23fce7f.gif" width=200><br>
-
+<img src="" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
